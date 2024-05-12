@@ -20,8 +20,6 @@ docs_require = [
 
 async_require = ["httpx>=0.15.0"]
 
-ttlcache_require = ["cachetools==5.3.1"]
-
 xmlsec_require = [
     "xmlsec>=0.6.1",
 ]
